@@ -1,3 +1,3 @@
 # Week12DraftWork
 Week 12 practice upload of EarSketch coding project called 'Diverse Sound'
-Look at Main.py for code
+Look at Main.py for code - Unsure if you need to download sounds
