@@ -1,5 +1,5 @@
 # What?
-This is a Week 12 practice upload of my EarSketch coding project called 'Diverse Sound'
+This is an upload of my EarSketch coding project called 'Diverse Sound'
 Look at Main.py for code - Copy and paste code into EarSketch
 
 # Why?
