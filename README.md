@@ -7,3 +7,6 @@ I have made a song that transitions through genres in order to demonstrate the d
 
 # External Libraries
 I have also used a lot of sounds that are saved to my device that are exhibited that have been uploaded into my earsketch project
+
+# Link to EarSketch
+https://earsketch.gatech.edu/earsketch2/ 
